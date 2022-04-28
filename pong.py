@@ -38,6 +38,7 @@ ball.dx = 1/6
 ball.dy = 1/6
 
 #Function
+#Testing commit
 
 def paddle_a_up():
     y = paddle_a.ycor()
